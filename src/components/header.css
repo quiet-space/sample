@@ -1,0 +1,5 @@
+.header-container {
+    display: grid;
+    grid-template-columns: repeat(5, 10fr);
+    place-items: center;
+}

@@ -1,0 +1,6 @@
+.content-container {
+    display: grid;
+    place-items: center;
+    border: 1px solid black;
+    margin: 2%;
+}

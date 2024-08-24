@@ -1,0 +1,5 @@
+.menu-container {
+    display: grid;
+    grid-template-rows: repaet(5, 10fr);
+    place-items: center;
+}
